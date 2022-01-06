@@ -1,0 +1,26 @@
+{
+  "name": "podcast-rss-feed-parser",
+  "version": "1.0.0",
+  "description": "parse podcast rss feeds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeMelgren/podcast-rss-feed-parser.git"
+  },
+  "keywords": [
+    "podcast",
+    "rss",
+    "feed",
+    "parser",
+    "xml"
+  ],
+  "author": "Mike Melgren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MikeMelgren/podcast-rss-feed-parser/issues"
+  },
+  "homepage": "https://github.com/MikeMelgren/podcast-rss-feed-parser#readme"
+}
